@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone 👋, I am Pawan Kumar</h1>
-<h3 align="center">A passionate DevOps learner with a good background in cloud technologies and networking</h3>
+<h3 align="center">A passionate DevOps and Cloud learner with a good background in cloud technologies and networking</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
